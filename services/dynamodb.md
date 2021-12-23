@@ -1,4 +1,5 @@
 # AWS DynamoDB
+
 ## Premissas
 
 - Possuir o aws cli instalado, ou rodar o aws cli via docker.
