@@ -13,4 +13,3 @@ Rodar o projeto à partir do diretório ```\localstack``` e subir o docker-compo
 ## Running
 
 Executar o seguinte comando ```docker-compose up -d```.
-
