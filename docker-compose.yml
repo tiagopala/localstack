@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+  localstack:
+    container_name: generic-localstack
+    image: localstack/localstack
+    ports:
+    - 4566:4566
+    - 4571:4571 
