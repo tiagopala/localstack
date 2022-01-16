@@ -19,6 +19,7 @@ Executar o seguinte comando ```docker-compose up -d```.
 Este projeto possui *readme's* específicos para cada serviço a ser utilizado.
 
 - [SQS](./services/sqs.md)
+- [DynamoDB](./services/dynamodb.md)
 
 ### Authors
 
